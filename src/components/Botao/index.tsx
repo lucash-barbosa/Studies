@@ -3,6 +3,7 @@ import style from './Botao.module.scss';
 
 class Botao extends React.Component<{
   type?: "button" | "submit" | "reset" | undefined
+  children?: React.ReactNode
 }> {
   render() {
     const { type = "button" } = this.props;
