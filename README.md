@@ -9,7 +9,5 @@
 
 ## Como Usar
 Após baixar o projeto
-
-### `npm start`
-Rode o app no modo de desenvolvedor .\
-Abra [http://localhost:3000](http://localhost:3000) para ver no browser.
+Abra o terminal e rode o "npm run start"
+Abra http://localhost:3000 para ver no browser.
