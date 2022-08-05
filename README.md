@@ -7,7 +7,6 @@
 ## 📁 Acesso
 É possivel baixar o projeto nesse <a href="https://github.com/lucash-barbosa/Alura-Studies/archive/refs/heads/master.zip">link</a>
 
-## Como Usar
-Após baixar o projeto
-Abra o terminal e rode o "npm run start"
-Abra http://localhost:3000 para ver no browser.
+## 🛠️ Abrir e rodar o projeto
+- Para abrir e rodar o projeto, execute npm i para instalar as dependências e npm start para inicar o projeto.
+Depois, acesse <a href="http://localhost:3000/">http://localhost:3000/</a> no seu navegador.
