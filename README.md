@@ -1,7 +1,5 @@
 <h1 align="center">Alura-Studies</h1>
 
-![Website](https://img.shields.io/github/license/lucash-barbosa/Alura-Studies)
-
 :book: Projeto criado durante o curso de React: escrevendo com Typescript da Alura
 
 <div align="center">
