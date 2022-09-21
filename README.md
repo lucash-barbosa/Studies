@@ -1,9 +1,9 @@
-<h1 align="center">Alura-Studies</h1>
+<h1 align="center">Studies</h1>
 
 :book: Projeto criado durante o curso de React: escrevendo com Typescript da Alura
 
 <div align="center">
-  <img src="screencapture.png" alt="Imagem do Alura-Studies" width="70%">
+  <img src="screencapture.png" alt="Imagem do Studies" width="70%">
 </div>
 
 ## 📁 Acesso
