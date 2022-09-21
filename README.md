@@ -7,7 +7,7 @@
 </div>
 
 ## 📁 Acesso
-É possivel baixar o projeto nesse <a href="https://github.com/lucash-barbosa/Alura-Studies/archive/refs/heads/master.zip">link</a>
+É possivel baixar o projeto nesse <a href="https://github.com/lucash-barbosa/Studies/archive/refs/heads/master.zip">link</a>
 
 ## 🛠️ Abrir e rodar o projeto
 
